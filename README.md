@@ -20,10 +20,10 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: m.vinicius93.brasilmortal@gmail.com">
+    <a href = "mailto: m.vinicius93.brasilmortal@gmail.com" target="_blank">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/marcus-vinicius-05855193/">
+    <a href = "https://www.linkedin.com/in/marcus-vinicius-05855193/" target="_blank">
       <img width="25" src="linkedin.svg">
     </a>
 </div>
