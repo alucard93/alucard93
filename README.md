@@ -33,14 +33,16 @@
 ![INSOMNIA](https://img.shields.io/badge/-INSOMNIA-0D1117?style=for-the-badge&logo=INSOMNIA&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=Typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=Jest&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
-
+![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=Express&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=Bootstrap&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Typeorm](https://img.shields.io/badge/-Typeorm-0D1117?style=for-the-badge&logo=Typeorm&labelColor=0D1117&textColor=0D1117)&nbsp;
+![AWS Badge](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=Amazon-AWS&labelColor=232F3E&logoColor=orange)
 
 ### Estudando no momento:
 ![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react-native&labelColor=0D1117)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=Prisma&labelColor=0D1117&textColor=0D1117)&nbsp;
-![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=NestJS&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Next.JS](https://img.shields.io/badge/-Next.JS-0D1117?style=for-the-badge&logo=Next.JS&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=Angular&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Contador de visitantes</b></p>  
