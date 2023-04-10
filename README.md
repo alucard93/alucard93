@@ -1,5 +1,3 @@
-import 'animate.css';
-
 <!-- banner superior -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04d361&height=120&section=header"/>
 
@@ -7,12 +5,14 @@ import 'animate.css';
 <!-- Mensagem -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=e1e1e6&size=35&center=true&vCenter=true&weight=700&width=1000&lines=Olá,+meu+nome+é+Marcus+Vinicius;Tenho+29+anos;Sou+um+cara+apaixonado+por+programação;Bem-vindo+!+:%30)](https://git.io/typing-svg)
-</div>
 
 <!-- Imagem Prog -->
 <div align="center">
-   <img height="180em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+   <img width="100%" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 </div>
+</div>
+
+
 
 
 <br>
