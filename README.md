@@ -27,15 +27,30 @@
  </div>
  
  ### Principais competências:
+
+### 🎨 &nbsp;Front-end
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=Typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=Angular&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=Bootstrap&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-0D1117?style=for-the-badge&logo=StyledComponents&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MUI](https://img.shields.io/badge/-MUI-0D1117?style=for-the-badge&logo=MUI&labelColor=0D1117)&nbsp;
+![DOCKER](https://img.shields.io/badge/-DOCKER-0D1117?style=for-the-badge&logo=DOCKER&labelColor=0D1117)&nbsp;
 
+### 👩‍💻 &nbsp;Back-End
+![PostgreSql](https://img.shields.io/badge/-POSTGRESQL-0D1117?style=for-the-badge&logo=POSTGRESQL&labelColor=0D1117)&nbsp;
+![DBeaver](https://img.shields.io/badge/-DBeaver-0D1117?style=for-the-badge&logo=DBeaver&labelColor=0D1117)&nbsp;
+![NODE.JS](https://img.shields.io/badge/-NODE.JS-0D1117?style=for-the-badge&logo=NODE.JS&labelColor=0D1117)&nbsp;
+![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=Express&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Typeorm](https://img.shields.io/badge/-Typeorm-0D1117?style=for-the-badge&logo=Typeorm&labelColor=0D1117&textColor=0D1117)&nbsp;
+![PYTHON](https://img.shields.io/badge/-PYTHON-0D1117?style=for-the-badge&logo=PYTHON&labelColor=0D1117)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=Jest&labelColor=0D1117&textColor=0D1117)&nbsp;
+![DOCKER](https://img.shields.io/badge/-DOCKER-0D1117?style=for-the-badge&logo=DOCKER&labelColor=0D1117)&nbsp;
+
+### ⚡ &nbsp; Ferramentas: 
+![AWS Badge](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=Amazon-AWS&labelColor=232F3E&logoColor=orange)
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-0D1117?style=for-the-badge&logo=Github&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=Figma&labelColor=0D1117)&nbsp;
@@ -43,22 +58,7 @@
 ![Slack](https://img.shields.io/badge/-Slack-0D1117?style=for-the-badge&logo=Slack&labelColor=0D1117)&nbsp;
 ![INSOMNIA](https://img.shields.io/badge/-INSOMNIA-0D1117?style=for-the-badge&logo=INSOMNIA&labelColor=0D1117)&nbsp;
 
-![PostgreSql](https://img.shields.io/badge/-POSTGRESQL-0D1117?style=for-the-badge&logo=POSTGRESQL&labelColor=0D1117)&nbsp;
-![DBeaver](https://img.shields.io/badge/-DBeaver-0D1117?style=for-the-badge&logo=DBeaver&labelColor=0D1117)&nbsp;
-![NODE.JS](https://img.shields.io/badge/-NODE.JS-0D1117?style=for-the-badge&logo=NODE.JS&labelColor=0D1117)&nbsp;
-![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=Express&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Typeorm](https://img.shields.io/badge/-Typeorm-0D1117?style=for-the-badge&logo=Typeorm&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-![PYTHON](https://img.shields.io/badge/-PYTHON-0D1117?style=for-the-badge&logo=PYTHON&labelColor=0D1117)&nbsp;
-
-![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=Jest&labelColor=0D1117&textColor=0D1117)&nbsp;
-![DOCKER](https://img.shields.io/badge/-DOCKER-0D1117?style=for-the-badge&logo=DOCKER&labelColor=0D1117)&nbsp;
-
-
-![AWS Badge](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=Amazon-AWS&labelColor=232F3E&logoColor=orange)
-
 ### Estudando no momento:
-![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=Prisma&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Next.JS](https://img.shields.io/badge/-Next.JS-0D1117?style=for-the-badge&logo=Next.JS&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=Angular&labelColor=0D1117&textColor=0D1117)&nbsp;
