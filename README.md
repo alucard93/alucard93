@@ -3,6 +3,11 @@
 
 <!-- Mensagem -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=e1e1e6&size=35&center=true&vCenter=true&weight=700&width=1000&lines=Olá,+meu+nome+é+Marcus+Vinicius;Tenho+29+anos;Sou+um+cara+apaixonado+por+programação;Bem-vindo+!+:%29)](https://git.io/typing-svg)
+<!-- Imagem Prog -->
+<div align="center">
+   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+</div>
+
 
 <!-- Gráfico -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alucard93&bg_color=0d1117&color=04d361&line=e1e1e6&point=04d361&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
