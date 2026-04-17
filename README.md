@@ -8,7 +8,7 @@
 <div align="center">
 <!-- Mensagem -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=e1e1e6&size=35&center=true&vCenter=true&weight=700&width=1000&lines=Olá,+meu+nome+é+Marcus+Vinicius;Tenho+29+anos;Sou+um+cara+apaixonado+por+programação;Bem-vindo+!+:%30)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=e1e1e6&size=35&center=true&vCenter=true&weight=700&width=1000&lines=Olá,+meu+nome+é+Marcus+Vinicius;Tenho+33+anos;Sou+um+cara+apaixonado+por+programação;Bem-vindo+!+:%30)](https://git.io/typing-svg)
 
 <!-- Imagem Prog -->
 <div align="center">
