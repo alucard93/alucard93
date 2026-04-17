@@ -92,7 +92,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Contador de visitantes</b></p>  
-<img src="https://komarev.com/ghpvc/?username=alucard93&color=blue&style=flat-square" alt="alucard93" /><img src="https://komarev.com/ghpvc/?username=alucard93&color=blue&style=flat-square" alt="alucard93" />
+<img src="https://komarev.com/ghpvc/?username=alucard93&color=blue&style=flat-square" alt="alucard93" />
 <br>
 </div>
 
