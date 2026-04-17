@@ -93,6 +93,8 @@
 <div align="center">
 <br><p align="centre"><b>Contador de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alucard93}/count.svg" /></p> 
+ ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseu-usuario-aqui&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![](https://count.getloli.com/get/@seu-usuario-aqui)
 <br>
 </div>
 
